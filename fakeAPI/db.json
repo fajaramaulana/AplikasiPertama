@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Agus Maulana",
+      "email": "fajara@upnvj.ac.id",
+      "bidang": "React",
+      "id": 1
+    },
+    {
+      "name": "Fajar Agus Maulana",
+      "email": "fajaragusmaulana@gmail.com",
+      "bidang": "Fullstack javascript",
+      "id": 2
+    },
+    {
+      "name": "Mifta Khairia",
+      "email": "Mifta@gmail.com",
+      "bidang": "Physiotheraphy",
+      "id": 5
+    }
+  ]
+}
